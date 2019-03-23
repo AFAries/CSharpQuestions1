@@ -1,5 +1,7 @@
 #### CSharpQuestions1
 
+I included all the links which I used references/sources but the definitions/answers I tried to explain in a simpler fashion.
+
 1.	Q: What is a namespace?
 A namespace is one way to help organize your programming project. A namespace is a method for organizing your code adding clarity and keeping object names from interfering with each other.
 https://www.tutorialspoint.com/csharp/csharp_namespaces.htm
