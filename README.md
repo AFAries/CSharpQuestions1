@@ -5,26 +5,31 @@ I included all the links which I used references/sources but the definitions/ans
 1.	Q: What is a namespace?
 
 A namespace is one way to help organize your programming project. A namespace is a method for organizing your code adding clarity and keeping object names from interfering with each other.
+
 https://www.tutorialspoint.com/csharp/csharp_namespaces.htm
 
 2.	Q: What are value types?
 
 Value Types are variables that can be assigned a value directly, so they are basically part of your bread and butter for programing. Integers and floats are variables under this category.
+
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/types
 
 3.	Q: What are reference types?
 
 Reference types are your other bread and butter item for programming. They are variables, but unlike they value types, they contain references to data and don’t actually contain data itself.
+
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/types
 
 4.	Q: What is an automatic property and how is it useful?
 
 Automatic properties are basically shortcuts for coding, simplifying code and saving on logical input.
+
 https://stackoverflow.com/questions/6001917/what-are-automatic-properties-in-c-sharp-and-what-is-their-purpose
 
 5.	Q: What is the purpose of using statement?
 
 “The reason for the using statement is to ensure that the object is disposed as soon as it goes out of scope, and it doesn’t require explicit code to ensure this happens.”
+
 Therefore a using statement can act sort of as a shortcut for coding, saving one from additional typing. Basically logic saving.
 
 https://stackoverflow.com/questions/75401/what-are-the-uses-of-using-in-c-sharp
